@@ -2,6 +2,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Draw");
+        Console.Write("Draw abc");
     }
 }
